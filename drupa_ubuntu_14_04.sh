@@ -24,6 +24,8 @@ drush -y en views, views_ui
 
 druch -y en views_php
 
+drush -y en jquery_update
+
 drush -y en field_group
 
 drush -y en module_filter
