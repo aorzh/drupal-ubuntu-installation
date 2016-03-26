@@ -22,7 +22,7 @@ drush -y en admin_menu, admin_devel, admin_menu_toolbar
 
 drush -y en views, views_ui
 
-druch -y en views_php
+drush -y en views_php
 
 drush -y en jquery_update
 
